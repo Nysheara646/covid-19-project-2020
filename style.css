@@ -1,0 +1,27 @@
+body {
+  background: url("https://cdn.glitch.com/38be0152-31b4-4713-ac36-d19da9c990cd%2FMAIN%20MEMEM.png?v=1587329786419");
+    
+}
+
+#title {
+  font-family: "Livvic", sans-serif;
+  color: white;
+  font-size: 90px;
+  text-shadow: 2px 2px 5px red;
+  word-spacing: 10px;
+  text-align: center
+}
+h2{
+  color: white
+    font-family: "Livvic", sans-serif;
+  color: white;
+  font-size: 30px;
+  text-align: center
+}
+h1{
+  background: 
+}
+.carousel-inner > .item > img {
+  width:640px;
+  height:900px;
+}
